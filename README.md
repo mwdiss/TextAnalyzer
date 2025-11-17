@@ -24,16 +24,16 @@ Walkthrough also available [on YouTube!](https://youtu.be/jnBeJu20LSw) 🎥
 
 ### ✨ Extra Features
 
-*   🖥️ **A Full Graphical Interface (GUI):** Instead of a simple console program, we built a complete visual application using Java Swing.
-*   ⚡ **True Real-Time Analysis:** Seriously, *everything* updates as you type. It's fast.
-*   🔎 **Most Common Word:** We added the ability to find the most used *word* too, complete with its count.
-*   📊 **Advanced Statistics:** You also get live counts for **Sentences**, **Paragraphs**, and **Characters (without spaces)**.
-*   📈 **Custom Live Trackers:** Our favorite feature! Add multiple trackers at once to monitor several words or characters as you work.
+*   🖥️ **A Full Graphical Interface (GUI):** Instead of a simple console program, I built a complete visual application using Java Swing.
+*   ⚡ **True Real-Time Analysis:** *Everything* updates instantly as you type.
+*   🔎 **Most Common Word:** Added the ability to find the most used *word* too, with its count.
+*   📊 **Advanced Statistics:** Live counts for **Sentences**, **Paragraphs**, and **Characters (without spaces)**.
+*   📈 **Custom Live Trackers:** Add multiple trackers at once to monitor several words or characters as you work.
 *   **Smart Toggles:** An "Ignore Symbols" toggle for pure word analysis.
 *   📚 **Sorted Unique Word List:** See the full list of unique words, neatly sorted alphabetically with their individual counts.
 *   ✍️ **Real Editor Functionality:**
     *   **Undo/Redo** support.
-    *   Handy **Paste** and **Clear** buttons.
+    *   **Paste** and **Clear** buttons.
     *   A **Line Wrapping** toggle for easier reading.
 *   💼 **Professional UI/UX:**
     *   A clean, modern, and resizable window.
@@ -64,5 +64,4 @@ To compile it:
 
 ## 💻 Built With
 
-*   ☕ **Java**: The heart of the application, powering all the logic.
-*   🎨 **Java Swing**: Used for the entire graphical user interface, from the buttons to the text area.
+*   ☕ **Java**   &   🎨 **Java Swing**
